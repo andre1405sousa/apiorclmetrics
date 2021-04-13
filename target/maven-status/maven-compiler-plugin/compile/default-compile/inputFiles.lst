@@ -1,0 +1,16 @@
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/models/DBInfoModel.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/repository/DBInfoRepository.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/controllers/MemoryUsedController.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/controllers/ActiveTransactionController.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/controllers/DBInfoController.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/models/DataFilesUtilzModel.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/repository/TopTenLargeTbRepository.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/models/ActiveTransactionModel.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/models/MemoryUsedModel.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/controllers/DataFileUtilzController.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/ApiOrclmetricsApplication.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/repository/MemoryUsedRepository.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/repository/ActiveTransactionRepository.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/models/TopTenLargeTbModel.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/controllers/TopTenLargeTbController.java
+/home/andre/Documentos/Projetos/senior/apiorclmetrics/src/main/java/br/com/djdl3970/apiorclmetrics/repository/DataFilesUtilzRepository.java

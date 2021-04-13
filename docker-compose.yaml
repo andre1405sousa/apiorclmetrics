@@ -1,0 +1,10 @@
+version: '3'
+services: 
+    apiorclmetrics:
+        build:
+            context: ./
+            dockerfile: ./Dockerfile
+        image: apiorclmetrics/api
+        ports: 
+            - '8080:8080'
+            - '5005:5005'

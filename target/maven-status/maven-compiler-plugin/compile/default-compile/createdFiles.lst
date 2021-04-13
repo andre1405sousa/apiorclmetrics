@@ -1,0 +1,16 @@
+br/com/djdl3970/apiorclmetrics/models/TopTenLargeTbModel.class
+br/com/djdl3970/apiorclmetrics/repository/DBInfoRepository.class
+br/com/djdl3970/apiorclmetrics/controllers/ActiveTransactionController.class
+br/com/djdl3970/apiorclmetrics/models/DBInfoModel.class
+br/com/djdl3970/apiorclmetrics/controllers/TopTenLargeTbController.class
+br/com/djdl3970/apiorclmetrics/ApiOrclmetricsApplication.class
+br/com/djdl3970/apiorclmetrics/models/MemoryUsedModel.class
+br/com/djdl3970/apiorclmetrics/repository/ActiveTransactionRepository.class
+br/com/djdl3970/apiorclmetrics/controllers/DBInfoController.class
+br/com/djdl3970/apiorclmetrics/controllers/DataFileUtilzController.class
+br/com/djdl3970/apiorclmetrics/controllers/MemoryUsedController.class
+br/com/djdl3970/apiorclmetrics/models/DataFilesUtilzModel.class
+br/com/djdl3970/apiorclmetrics/repository/DataFilesUtilzRepository.class
+br/com/djdl3970/apiorclmetrics/repository/TopTenLargeTbRepository.class
+br/com/djdl3970/apiorclmetrics/models/ActiveTransactionModel.class
+br/com/djdl3970/apiorclmetrics/repository/MemoryUsedRepository.class
