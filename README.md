@@ -1,4 +1,4 @@
-1 - https://github.com/andre1405sousa/apiorclmetrics.git
+1 - git https://github.com/andre1405sousa/apiorclmetrics.git
 
 2 - cd ./apiorclmetrics/
 
